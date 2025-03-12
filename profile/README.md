@@ -33,3 +33,10 @@ Components Used:
    1) Beckhoff Ethercat PLC
    2) Raspberry Pi 4
    3) Nvidia Jetson Nano
+
+
+
+
+### This repository consists everything that is required to complete the project.
+https://samarthvengurlekar.github.io/3D-model-Assembly-line/
+
